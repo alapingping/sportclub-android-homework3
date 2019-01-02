@@ -1,2 +1,6 @@
-# sportclub
-# it's a app about sport club.
+##Homework 3:
+
+* 视频 使用第三方库节操播放器jcvideoplayer  
+* 适配器使用了特殊的videoadapter      
+* 地图使用了百度地图，具体有定位功能，地点搜索功能，路线规划功能
+* 实现拨打电话，发送短信，发送邮件功能
